@@ -8,4 +8,10 @@ Python 3.6\
 Tensorflow 1.12\
 Keras 2.2.4\
 OpenCV 3.4.1\
-Augmentor
+Augmentor\
+\
+\
+\
+![Screenshot](screenshot.png)
+
+
