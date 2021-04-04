@@ -12,7 +12,10 @@ Augmentor\
 \
 \
 \
-![Screenshot](screenshot.png) \
 \
 \
-In this notebook I will try to use pre-trained VGG16 model to classify good and defected images from DAGM dataset. I will be using image pre-processing using OpenCV and try to generate final heatmap like this from the model.
+\
+In this notebook I will try to use pre-trained VGG16 model to classify good and defected images from DAGM dataset. I will be using image pre-processing using OpenCV and try to generate final heatmap like this from the model. \
+\
+\
+![Screenshot](screenshot.png) 
