@@ -1,6 +1,6 @@
-# DAGM-2007-Binary-Classification\
+# DAGM-2007-Binary-Classification
 \
-Dataset: https://conferences.mpi-inf.mpg.de/dagm/2007/prizes.html\
+Dataset: https://conferences.mpi-inf.mpg.de/dagm/2007/prizes.html
 \
 Requirements:\
 \
@@ -12,6 +12,7 @@ Augmentor\
 \
 \
 \
-![Screenshot](screenshot.png)
-
-
+![Screenshot](screenshot.png) \
+\
+\
+In this notebook I will try to use pre-trained VGG16 model to classify good and defected images from DAGM dataset. I will be using image pre-processing using OpenCV and try to generate final heatmap like this from the model.
